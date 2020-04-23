@@ -1,5 +1,5 @@
 //TODO: STEP 1 - Import the useState hook.
-//init state
+//init state from new branch
 import React from "react";
 import BottomRow from "./BottomRow";
 import "./App.css";
